@@ -61,3 +61,8 @@ Some talks and blog post worth checking once you are more familiar with Julia
 * [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U)
 * [Julia User & Developer Survey 2019](https://julialang.org/blog/2019/08/2019-julia-survey/)
 * [JuliaCon 2017 | The State of the Type System | Jeff Bezanson](https://www.youtube.com/watch?v=Z2LtJUe1q8c)
+* [JuliaCon 2019 | Porting a Massively Parallel Multi-GPU Application to Julia | Ludovic Räss](https://www.youtube.com/watch?v=b90qqbYJ58Q)
+* [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?v=okGybBmihOE)
+* [Solving Systems of Stochastic PDEs and using GPUs in Julia](http://www.stochasticlifestyle.com/solving-systems-stochastic-pdes-using-gpus-julia/)
+* [JuliaCon 2019 | Scientific AI: Domain Models with Integrated Machine Learning | Chris Rackauckas](https://www.youtube.com/watch?v=FGfx8CQHdQA) : Neural Networks and ODEs for fun and profit.
+* [PackageCompiler.jl](https://julialang.github.io/PackageCompiler.jl/dev/) : "Precompile" packages to reduce loading times. Not very active, so use at your own risk.

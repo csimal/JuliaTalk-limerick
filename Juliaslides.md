@@ -25,8 +25,13 @@ Cédric Simal
 24/03/2020
 
 ---
-# Motivation
+
 ![height:500px](images/limerick.png)
+
+---
+## Despite rapid growth, Julia is still in early adoption
+![height:450px](images/lang.rank_.618-1.png)
+https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18/
 
 ---
 # Disclaimer
@@ -60,17 +65,23 @@ Links to proper learning resources will be provided
 * Elegance matters
 * The right tool for the right job
 ---
-# Performance vs Abstraction
+# The Two Languages Problem
 C/C++/Fortran | Python/R/Matlab
 :------- | :-------
 Compiled | Interpreted
 Static Typing | Dynamic Typing
 Limited Abstraction | Flexible
+
+---
+# Performance
+![height:500px](images/benchmarks_dark.svg)
+https://julialang.org/benchmarks/
+
 ---
 # Parallel computing
 * Difficult in traditional languages (C, Fortran, ...)
 * Naturally easy in Functional Programming (Erlang, Haskell)
-* New generation of "hybrid" languages (Go, Julia, Kotlin, Rust, ...)
+* New generation of "hybrid" languages (Go, Julia, Rust, ...)
 
 ---
 # Meet Julia
@@ -84,7 +95,7 @@ Limited Abstraction | Flexible
 ---
 # Type System
 Julia's type system is
-* Dynamic, with optional type anotations `x::Int`
+* Dynamic, with optional type annotations `x::Int`
 * Parametric `Vector{T}`
 * Hierarchical (subtyping) `Float64 <: Real`
 
@@ -115,11 +126,6 @@ Type system + Multiple dispatch + JIT compiling
 
 ---
 # Postcard Demo!
-
----
-# Performance
-![height:500px](images/benchmarks_dark.svg)
-https://julialang.org/benchmarks/
 
 ---
 # Packages
