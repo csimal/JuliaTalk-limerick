@@ -26,7 +26,7 @@ Cédric Simal
 
 ---
 # Motivation
-![height:550px](limerick.png)
+![height:500px](images/limerick.png)
 
 ---
 # Disclaimer
@@ -43,15 +43,15 @@ Links to proper learning resources will be provided
 
 ---
 # My programming history
-![width:900px](programming_history_01.png)
+![width:900px](images/programming_history.png)
 
 ---
 # Mathematical interests
-![height:500px](piechart.png)
+![height:500px](images/piechart.png)
 
 ---
 # Languages
-![height:500px](languages.png)
+![height:500px](images/languages.png)
 
 ---
 # My programming philosophy
@@ -75,11 +75,11 @@ Limited Abstraction | Flexible
 ---
 # Meet Julia
 
-![height:450px](juliapaper.png)
+![height:450px](images/juliapaper.png)
 
 ---
 # Types
-![height:500px](types.png)
+![height:500px](images/types.png)
 
 ---
 # Type System
@@ -118,7 +118,7 @@ Type system + Multiple dispatch + JIT compiling
 
 ---
 # Performance
-![height:500px](benchmarks_dark.svg)
+![height:500px](images/benchmarks_dark.svg)
 https://julialang.org/benchmarks/
 
 ---
@@ -131,41 +131,41 @@ https://julialang.org/benchmarks/
 ---
 # Networks
 
-![bg left:60% 80%](juliagraphs.png)
+![bg left:60% 80%](images/juliagraphs.png)
 
 [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl)
 
 ---
 # Numerical Integration
 
-![bg right:50% 80%](diffeq.png)
+![bg right:50% 80%](images/diffeq.png)
 [JuliaDiffEq](https://github.com/JuliaDiffEq)
 
 
 ---
-![](friendshipended.png)
+![](images/friendshipended.png)
 
 ---
 # Statistics
-![bg left:50% 80%](juliastats.png)
+![bg left:50% 80%](images/juliastats.png)
 [JuliaStats](https://github.com/JuliaStats)
 
 ---
 # Machine Learning
-![bg right:60% 80%](flux.png)
+![bg right:60% 80%](images/flux.png)
 * [Flux](https://github.com/FluxML)
 * [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl)
 
 ---
 # Plotting
-![bg left:60% 80%](juliaplots.png)
+![bg left:60% 80%](images/juliaplots.png)
 * [Plots.jl](https://github.com/JuliaPlots/Plots.jl)
 * [Gadfly.jl](https://gadflyjl.org/stable/)
 
 ---
 # Don't throw away your old code!
 * Natively call C/Fortran functions
-![bg right:50% 80%](juliainterop.png)
+![bg right:50% 80%](images/juliainterop.png)
 * [PyCall.jl](https://github.com/JuliaPy/PyCall.jl)
 * [RCall.jl](https://github.com/JuliaInterop/RCall.jl)
 
